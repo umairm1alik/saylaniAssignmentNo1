@@ -1,0 +1,22 @@
+.tHeading{
+    padding: 0 30px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.alignLeft{
+    float: left;
+}
+
+.wth{
+    width: 190px;
+}
+
+fieldset{
+    width: 200px; 
+    height:auto; 
+    padding: 20px 10px ;
+}
